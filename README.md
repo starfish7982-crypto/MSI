@@ -7,8 +7,8 @@ MSI is a world-renowned leader in the design and manufacturing of high-performan
 <b>Assistant Engineer</b><br>
 October 2013 - June 2015, New Taipei City, Taiwan<br>
 <ul>
-<li>Managed hardware components (memory, hard drives, motherboards, graphics cards, CPUs) across 30+ systems in a lab environment, ensuring optimal performance and reliability.</li>
-<li>Implemented hardware management processes such as inventory tracking and routine maintenance, leading to a 15% reduction in system failures and downtime.</li>
-<li>Facilitated lab operations, improving project timelines and outcomes.</li>
-<li>Supported test engineers by addressing hardware and software needs, increasing testing efficiency by 10% through better resource allocation and support.</li>
+<li>Managed hardware equipment including memory, hard drives, motherboards, graphics cards, and CPUs, ensuring optimal performance.</li>
+<li>Coordinated lab reservations to maximize resource utilization and minimize downtime.</li>
+<li>Implemented efficient hardware management processes, leading to improved system reliability.</li>
+<li>Facilitated seamless lab operations, contributing to enhanced project timelines and outcomes.</li>
 </ul>
