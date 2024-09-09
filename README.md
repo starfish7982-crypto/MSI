@@ -5,7 +5,7 @@ MSI is a world-renowned leader in the design and manufacturing of high-performan
 <br>
 <br>
 <b>Assistant Engineer</b><br>
-October 2013 - June 2015, New Taipei City, Taiwan<br>
+October 2013 - June 2015 | New Taipei City, Taiwan<br>
 <ul>
 <li>Managed hardware equipment including memory, hard drives, motherboards, graphics cards, and CPUs, ensuring optimal performance.</li>
 <li>Coordinated lab reservations to maximize resource utilization and minimize downtime.</li>
